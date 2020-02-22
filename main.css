@@ -3,10 +3,11 @@
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
-button, input[type="text"] {
+button,
+input[type="text"] {
   padding: 5px;
 }
 
@@ -38,6 +39,7 @@ button:hover {
   display: block;
   color: grey;
   font-style: italic;
+
   font-size: 20px;
   margin-bottom: 15px;
 }
